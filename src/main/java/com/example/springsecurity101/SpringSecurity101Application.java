@@ -10,7 +10,7 @@ public class SpringSecurity101Application {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringSecurity101Application.class, args);
-        System.out.println("Server running on port: ");
+        System.out.println("Server running on port: 8080");
     }
 
 }
